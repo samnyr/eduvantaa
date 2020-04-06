@@ -46,6 +46,6 @@ Robottien kognitiiviset taidot: Robotit leviävät yhä enemmän valmistuslattia
 
 Kielenoppiminen (ML): ML ottaa yleensä, että ympäristöä ei manipuloida haitallisesti mallien koulutuksen ja arvioinnin aikana. Toisin sanoen useimmat ML-mallit ovat riittämättömästi pohtineet tapoja, joilla vastustaja voi hyökätä ja manipuloida mallin toimintoja. Turvallisuustutkijat ovat kuitenkin jo osoittaneet, että kilpailevat, haitalliset panokset voivat huijata koneoppimallit haluttuihin tuloksiin, jopa ilman täydellistä tietoa kohdemallin parametreistä. 
 
-#Karting
+# Karting
 
 https://connect.unity.com/p/sampsakartingi
