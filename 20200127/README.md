@@ -45,3 +45,7 @@ Lisäaineiden valmistus: 3D- tulostusta on ollut olemassa ainakin 1980- luvun al
 Robottien kognitiiviset taidot: Robotit leviävät yhä enemmän valmistuslattiasta ihmisten käyttämiin tiloihin. Tällaisissa ympäristöissä on tarvetta roboteille, jotta ne kykenevät mukautumaan uusiin tehtäviin sellaisten ominaisuuksien avulla kuin lisääntyvä ymmärrys ympäristöistä, joissa ne sijaitsevat. 
 
 Kielenoppiminen (ML): ML ottaa yleensä, että ympäristöä ei manipuloida haitallisesti mallien koulutuksen ja arvioinnin aikana. Toisin sanoen useimmat ML-mallit ovat riittämättömästi pohtineet tapoja, joilla vastustaja voi hyökätä ja manipuloida mallin toimintoja. Turvallisuustutkijat ovat kuitenkin jo osoittaneet, että kilpailevat, haitalliset panokset voivat huijata koneoppimallit haluttuihin tuloksiin, jopa ilman täydellistä tietoa kohdemallin parametreistä. 
+
+#Karting
+
+https://connect.unity.com/p/sampsakartingi
