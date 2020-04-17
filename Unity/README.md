@@ -5,3 +5,6 @@ https://connect.unity.com/p/unit1samuel
 
 # challange 1 
 https://connect.unity.com/p/challenge1samuel
+
+# unit2
+https://connect.unity.com/p/unit2-nxq
