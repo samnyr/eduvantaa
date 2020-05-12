@@ -17,3 +17,9 @@ https://connect.unity.com/mg/other/prototyyppi-kolme
 
 # challenge 3
 https://connect.unity.com/mg/other/challenge-3-10
+
+# prototype 4 
+https://connect.unity.com/mg/other/challenge4-1
+
+# challange 4
+https://connect.unity.com/mg/other/challenge4-1
