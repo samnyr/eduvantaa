@@ -23,3 +23,9 @@ https://connect.unity.com/mg/other/challenge4-1
 
 # challange 4
 https://connect.unity.com/mg/other/challenge4-1
+
+# prototype 5
+https://connect.unity.com/mg/other/prototype-5-9
+
+# challenge 5
+https://connect.unity.com/mg/other/challange5
