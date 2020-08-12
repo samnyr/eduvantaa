@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T07:44:52.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" version="13.6.2" etag="f2H2fwktLhBYWxw_7PDQ" type="github"><diagram id="8KNOYYHFtU3qiiPAYQbV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-12T09:56:55.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="ppSo-tZd0b2u57FzZ0wY" version="13.6.2" type="github">
+  <diagram id="8KNOYYHFtU3qiiPAYQbV" name="Page-1">
+    <mxGraphModel dx="830" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gSiBaQ0a1_287cg3vX95-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gSiBaQ0a1_287cg3vX95-1" target="gSiBaQ0a1_287cg3vX95-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiBaQ0a1_287cg3vX95-1" value="nimi&lt;br&gt;syntymävuosi&lt;br&gt;pääaine" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiBaQ0a1_287cg3vX95-3" value="Opettaja" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiBaQ0a1_287cg3vX95-6" value="kurssi&lt;br&gt;ajankohta&lt;br&gt;pääaine&lt;br&gt;arvosana" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiBaQ0a1_287cg3vX95-7" value="Kurssit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiBaQ0a1_287cg3vX95-8" value="Mira Vorne mira.vorne@eduvantaa.fi&lt;br&gt;Juri Surakka juri.surakka@eduvantaa.fi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="395" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gSiBaQ0a1_287cg3vX95-9" value="Ohjelmoiminen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
