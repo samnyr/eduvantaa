@@ -28,6 +28,14 @@ AND Opiskelija.nimi = 'Anna'
 Koska ensimmäisessä etsitään kolmesta kohteesta ja toisessa viidestä.
 
 #### Tehtävä 15:
+SELECT nimi FROM Kurssi k
+WHERE k.kurssitunnus
+NOT IN (SELECT kurssi FROM kurssitehtävä)
+
+SELECT nimi FROM Kurssi k
+LEFT JOIN Kurssitehtävä t
+ON k.kurssitunnus=t.kurssi
+WHERE t.tunnus IS NULL
 
 
 
