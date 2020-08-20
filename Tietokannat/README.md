@@ -27,6 +27,7 @@ AND Opiskelija.nimi = 'Anna'
 #### Tehtävä 14: 
 Koska ensimmäisessä etsitään kolmesta kohteesta ja toisessa viidestä.
 
+<<<<<<< HEAD
 #### Tehtävä 15:
 SELECT nimi FROM Kurssi k
 WHERE k.kurssitunnus
@@ -36,6 +37,23 @@ SELECT nimi FROM Kurssi k
 LEFT JOIN Kurssitehtävä t
 ON k.kurssitunnus=t.kurssi
 WHERE t.tunnus IS NULL
+=======
+#### Tehtävä 18:
+CREATE TABLE Kurssi (kurssitunnus, nimi, kuvaus)
+
+#### Tehtävä 19:
+INSERT INTO Kurssi (kurssitunnus, nimi, kuvaus)
+    VALUES ('SQL-kielen perusteet', '12345', "SELECT 'Hei maailma';")
+#### Tehtävä 20:
+CREATE TABLE saamuel
+(
+    opiskelijanumero integer,
+    nimi varchar(6),
+    syntymävuosi date,
+    pääaine varchar(9)
+#### Tehtävä 21: 
+
+>>>>>>> fed2c7a22d14c25a9b3546a85cec67f0f88fdb28
 
 
 
